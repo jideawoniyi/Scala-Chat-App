@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/jayrouce/ScalaChatApp/src/main/scala/MongoDBConnector.scala:20:72: not found: type UpdateResult[0m
+[0m[[0m[31merror[0m] [0m[0m  def updateMessage(originalText: String, updatedText: String): Future[UpdateResult] = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/jayrouce/ScalaChatApp/src/main/scala/MongoDBConnector.scala:24:43: not found: type DeleteResult[0m
+[0m[[0m[31merror[0m] [0m[0m  def deleteMessage(text: String): Future[DeleteResult] = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
